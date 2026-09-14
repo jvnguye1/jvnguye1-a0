@@ -107,6 +107,10 @@ fun Buttons(modifier: Modifier = Modifier
             text = "Clicks: " + clicks,
             fontSize = 20.sp
         )
+        Text(
+            text = "Student Number: 1855235, CCID: jvnguye1",
+            fontSize = 20.sp
+        )
     }
 }
 
